@@ -1,4 +1,21 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# The Met landing page
+Landing page for The Metropolitan Museum of Art. Schedule, gallery and contacts
+  - [Demo](https://Vasyl-Zhyliakov.github.io/met-landing/)
+  - [Mockup](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-49&t=tsNKYNCTKppG4rNG-0)
+
+# Technologies used
+  - HTML5
+  - CSS3
+  - Sass(SCSS)
+  - BEM methodology
+  - Jacascript
+
+# Features
+
+Responsive Design – Built with a mobile-first approach, ensuring seamless performance across various devices.
+
+Adaptive Layout – The design dynamically adjusts to different screen sizes:
+- The design < 1260px
+- Desktop > 1024px
+- Tablet > 744px
+- Mobile > 320px
